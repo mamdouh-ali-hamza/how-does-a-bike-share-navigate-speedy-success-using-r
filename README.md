@@ -1,4 +1,4 @@
-# how-does-a-bike-share-navigate-speedy-success-using-r
+# How Does a Bike-Share Navigate Speedy Success?
 ![dataset-cover](https://github.com/mamdouh-ali-hamza/how-does-a-bike-share-navigate-speedy-success-using-r/assets/92183830/f0158a6a-cecf-472e-9297-69092f2a1ee6)
 
 Cyclistic is bike-share company in Chicago. The director of marketing believes the company’s future success depends on maximizing the number of annual memberships. 
